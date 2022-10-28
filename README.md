@@ -6,6 +6,8 @@ React Bootstrap was used to generate the nav bar.
 
 Added a few animataions using basic Css.
 
+Fontawesome was used to supply some of the icons displayed.
+
 # To implement in the future
 
 Currently working with React Router to set the individual routes for the website.
